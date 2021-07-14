@@ -11,6 +11,11 @@
 
           $helloWorld = "Hello World";
           echo $helloWorld;
+          echo "<br>";
+     
+          $value1 = 1.5;
+          $value2 = 2.5;
+          echo $value1 + $value2;
 
      ?>
 </body>
