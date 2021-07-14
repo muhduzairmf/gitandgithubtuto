@@ -12,6 +12,9 @@
           $helloWorld = "Hello World";
           echo $helloWorld;
 
+          $hyeworld = "Hye World";
+          echo $hyeworld;
+
      ?>
 </body>
 </html>
